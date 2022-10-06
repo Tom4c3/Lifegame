@@ -1,1 +1,2 @@
 # Lifegame
+Lifegame...Google Colabからプッシュするテスト
